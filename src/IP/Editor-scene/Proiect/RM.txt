@@ -1,0 +1,19 @@
+#MODELS
+NRMODELS 1
+ID 0
+FILE C:\Users\cristi\Desktop\IP\Editor-scene\NewResourcesPacket\Models\House.nfg
+
+#2DTEXTURES
+NR2DTEXTURES 1
+ID 0
+FILE C:\Users\cristi\Desktop\IP\Editor-scene\NewResourcesPacket\Textures\Croco.tga
+WRAPPINGMODE REPEAT
+#CUBETEXTURES
+NRCUBETEXTURES 0
+
+#SHADERS
+NRSHADERS 1
+ID 0
+FILE C:\Users\cristi\Desktop\IP\Editor-scene\Proiect\Resources\Shaders\SimpleVS.vs
+FILE C:\Users\cristi\Desktop\IP\Editor-scene\Proiect\Resources\Shaders\SimpleFS.fs
+NRSTATES 0

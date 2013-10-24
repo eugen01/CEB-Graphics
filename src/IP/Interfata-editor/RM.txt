@@ -1,0 +1,26 @@
+#MODELS
+NRMODELS 3
+ID 0
+FILE C:\Users\Eugen\Documents\Document
+ID 1
+FILE C:\Users\Eugen\Documents\date
+ID 2
+FILE C:\Users\Eugen\Documents\EGCTema3.pdf
+
+#2DTEXTURES
+NR2DTEXTURES 1
+ID 0
+FILE C:\Users\Eugen\Documents\indexfile.txt
+WRAPPINGMODE jTextField2
+#CUBETEXTURES
+NRCUBETEXTURE 1
+ID 0
+FILE C:\Users\Eugen\Documents\Ionescu_Eugen-Andrei_332CA.doc
+WRAPPINGMODE jTextField2
+
+#SHADERS
+NRSHADERS 1
+ID 0
+FILE C:\Users\Eugen\Documents\Tema_CN2.docx
+FILE C:\Users\Eugen\Documents\Tema_Eugen_Ionescu.docx
+NRSTATES 0
